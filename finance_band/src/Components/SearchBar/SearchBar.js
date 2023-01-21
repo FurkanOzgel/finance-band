@@ -25,7 +25,7 @@ export default function SearchBar({onPress,state}) {
                 <Ionicons style={styles.searchIcon} name={"search"} size={18} />
                 <TextInput
                     style={styles.searchBar}
-                    placeholder="Ekle..." 
+                    placeholder="Add..." 
                     onFocus = {() => setOnFocus(true)}
                     onBlur = {() => setOnFocus(false)}
                     onChangeText= {(input) => setText(input)}
