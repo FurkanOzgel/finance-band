@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/FurkanOzgel/finance-band/blob/main/images/icon.png?raw=true" width="300" height="300" />
 </p>
-Finance Band is an application that allows you to view the prices of financial instruments running on all smart wristbands and watches have media controllers, without the need for a phone.
+Finance Band is an application that allows you to view the prices of financial instruments running on all smart wristbands and watches have media controller, without the need for a phone.
 
 ## How the App Works?
 The application runs an empty music file in the background and when you send a pause command to this music file with your smart wristband, a function is triggered on your phone. This function allows you to receive the price of the items you have selected as a notification. You see this notification on your smart wristbands.
