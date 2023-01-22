@@ -1,3 +1,9 @@
+## He is Ceo, He is King, He is our First Sponsor
+<p align="center">
+  <a href="https://github.com/YigitCanCapraz"><img src="https://github.com/YigitCanCapraz.png" width="400px" alt="YigitCanCapraz"/></a>
+</p>
+
+
 # Finance Band App
 <p align="center">
   <img src="https://github.com/FurkanOzgel/finance-band/blob/main/images/icon.png?raw=true" width="300" height="300" />
